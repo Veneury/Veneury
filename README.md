@@ -4,8 +4,6 @@
 Hi 👋 My name is Veneury Devers
 ===============================
 
-![https://github.com/veneury](https://1.bp.blogspot.com/-AICN-kMDrtw/XdRkSM4IDYI/AAAAAAAAATg/26SHFhajLW8dmSgNUMc0xPHq52P_zQC4wCLcBGAsYHQ/s1600/programmer.gif)
-
 FullStack Developer
 -------------------
 
